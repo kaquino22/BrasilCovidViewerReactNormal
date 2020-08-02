@@ -1,0 +1,24 @@
+.conteudo{  
+    margin-top:20%; 
+    height: 80%;
+    margin-bottom:20%; 
+    width: 100%;
+    text-align: -webkit-center;
+}
+.cardApresentacao{
+    text-align-last: center;
+    background-color: white;
+    border-radius: 35px;
+    width: 80%;
+}
+.cardSobre{
+    padding: 5%;
+    margin-top: 5%;
+    text-align-last: center;
+    background-color: white;
+    border-radius: 35px;
+    width: 80%;
+}
+.voltar{
+    width: 10%;
+}

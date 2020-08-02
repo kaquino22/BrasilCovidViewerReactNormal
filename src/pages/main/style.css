@@ -1,0 +1,45 @@
+.conteudo{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+.DadosBrasil{
+    padding: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow: black 1px 0px 3px;
+    border: 3px solid #33AB95;
+}
+.DadosBrasil h3{
+    margin-top: 1%;
+}
+.Titulo{
+    border-bottom: 1px solid rgb(94, 92, 92);
+    text-align: center;
+}
+.Titulo h3{ 
+   font-size: 40px;
+}
+.Opcoes{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+}
+.Opcoes a{
+   text-shadow: black 1px 0px 3px;
+   border-radius: 10px;
+   border: 3px solid #33ab95;
+   background: none;
+   color: white;
+   text-decoration: none;
+   font-size:20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 6%;
+}
+
