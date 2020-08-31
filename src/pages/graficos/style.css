@@ -13,6 +13,7 @@
 }
 .cardSobre{
     padding: 5%;
+    box-shadow: black 0px 5px 20px;
     margin-top: 5%;
     text-align-last: center;
     background-color: white;

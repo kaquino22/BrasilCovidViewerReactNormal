@@ -3,13 +3,24 @@
     margin-bottom: 20%;
 }
 .DadosBrasil{
+    text-align: start;
     padding: 5%;
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 40px;
+    background-color: #53db3e;
     color: rgb(255, 255, 255);
     text-shadow: black 1px 0px 3px;
-    border: 3px solid #33AB95;
+    box-shadow: black 0px 5px 20px
+}
+.casos{
+    font-size:15px;
+}
+.bandeira{
+    width: 100%;
+    border-radius: 15px;
+    width: 100%;
+    box-shadow: 0px 0px 6px black;
 }
 .DadosBrasil h3{
     margin-top: 1%;
@@ -29,12 +40,18 @@
     align-items: center;
     margin-bottom: 10%;
 }
+
+.DadosBrasil a{
+    
+    text-decoration: none;
+    color: white;
+}
 .Opcoes a{
-   text-shadow: black 1px 0px 3px;
+    background-color: #53db3e;
+    color: rgb(255, 255, 255);
+    text-shadow: black 1px 0px 3px;
+    box-shadow: black 0px 5px 20px;
    border-radius: 10px;
-   border: 3px solid #33ab95;
-   background: none;
-   color: white;
    text-decoration: none;
    font-size:20px;
    display: flex;

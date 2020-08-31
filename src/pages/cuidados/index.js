@@ -28,7 +28,7 @@ export default class cuidados extends Component {
                  <img className="mao" src={sintomas} />
                   <p>Em caso de Febre, tosse, e dificuldade de respirar procure um médico.</p>
                 </div>
-                <Link to="/"><div className="cardSobre"> 
+                <Link to="/inicio"><div className="cardSobre"> 
               <img className="voltar" src={voltar} />
                 </div></Link>       
             </div>

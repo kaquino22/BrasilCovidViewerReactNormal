@@ -1,0 +1,81 @@
+.conteudo{  
+    margin-top:20%; 
+    height: 80%;
+    margin-bottom:20%; 
+    width: 100%;
+    text-align: -webkit-center;
+}
+.foto{
+    width: 50%;
+    padding: 2%;
+    border-radius: 26px;
+}
+p{
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    font-size:20px;
+}
+.Opcoes{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+}
+
+.DadosBrasil a{
+    
+    text-decoration: none;
+    color: white;
+}
+.Opcoes a{
+    background-color: #53db3e;
+    color: rgb(255, 255, 255);
+    text-shadow: black 1px 0px 3px;
+    box-shadow: black 0px 5px 20px;
+   border-radius: 10px;
+   text-decoration: none;
+   font-size:20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 6%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h1{
+    padding: 2%;
+    font-family: 'Lobster', sans-serif;
+    font-size: 30px;
+}
+.redesSociais{
+    font-size: 50px;
+    margin-top: 5%;
+}
+.redesSociais i{
+    padding-right: 5%;
+}
+.cardApresentacao{
+    text-align-last: center;
+    background-color: white;
+    border-radius: 35px;
+    width: 80%;
+    box-shadow: black 0px 5px 20px;
+}
+.cardSobre{
+    box-shadow: black 0px 5px 20px;
+    padding: 5%;
+    margin-top: 5%;
+    text-align-last: center;
+    background-color: white;
+    border-radius: 35px;
+    width: 80%;
+}
+.logoFace{
+    width: 20%;
+}
+.voltar{
+    width: 10%;
+}

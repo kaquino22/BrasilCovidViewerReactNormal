@@ -23,7 +23,7 @@ export default class sobre extends Component {
                     Curta no Facebook <br/> <br/>
                      <a target="_blank" href="https://www.facebook.com/LakAppOficial"><img  className="logoFace" src={facebook} /></a>
                 </div>  
-                <Link to="/"><div className="cardSobre"> 
+                <Link to="/inicio"><div className="cardSobre"> 
               <img className="voltar" src={voltar} />
                 </div></Link>        
             </div>
