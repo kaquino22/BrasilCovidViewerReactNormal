@@ -1,2 +1,2 @@
-# BrasilCovidViewerReactNormal
-Aplicação em React versão não nativa.
+# BrasilCovidViewerReact
+React application to show covid19 cases in brazil, made for studies
